@@ -1,2 +1,2 @@
-# Digital_Marketing-
+# Digital_Marketing
 Learning Journney of Digital Marketing 
