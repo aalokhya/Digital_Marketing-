@@ -1,0 +1,170 @@
+````markdown
+# Off-Page SEO
+
+---
+
+## Date: 19-09-2026
+
+# Lesson 10 — Local Citations / Profile Creation
+
+## Local Citation
+
+**Local citation** means an online mention of a local business's **Name, Address, and Phone number (NAP).**
+
+### Platforms
+
+- TMBLR
+- About.me
+- Google Business Profile
+- Bing Places for Business
+- Justdial
+- Apple Business Connect
+
+---
+
+## Anchor Text
+
+**Anchor text** = the clickable words used in a hyperlink.
+
+### Example
+
+```html
+<a href="https://example.com">electrical shop in Hanamkonda</a>
+````
+
+Here, **"electrical shop in Hanamkonda"** is the anchor text.
+
+---
+
+## Referral Traffic
+
+**Referral traffic** is visitors who come to your website by clicking a link from another website.
+
+### Remember
+
+**Backlink:** The link pointing **to your website**
+
+**Referral traffic:** The **visitors** who come through that link
+
+---
+
+## Link Building
+
+**Link building** = getting other websites to put a link to your website.
+
+### Link-Building Mistakes
+
+Link-building mistakes include:
+
+* Buying spammy links
+* Mass submissions
+* Irrelevant links
+* Unnatural anchor-text manipulation
+
+### Better Approach
+
+Get a link from a:
+
+* Relevant local business website
+* Industry website
+* Useful article
+* Legitimate directory
+
+---
+
+## Practical Off-Page SEO
+
+**Practical off-page SEO** means:
+
+> Creating useful content + promoting it through relevant platforms + earning quality backlinks + building local citations + monitoring the results.
+
+---
+
+# Article Submission
+
+**Article submission** is writing an informative article and publishing it on a third-party website, usually with a relevant link to your website.
+
+The website must accept the content before it can be published.
+
+### Platforms
+
+* YourStory
+* IndiaMART Blog
+
+---
+
+# Web 2.0 Submission
+
+**Web 2.0 submission** is creating content on user-generated publishing platforms and using that content to build an online presence and potentially link to your website.
+
+### Platforms
+
+* **WordPress.com** — Create a blog/site
+* **Tumblr** — Publish posts
+* **Wix** — Create a website/blog
+* JustPaste.it
+* Blogger
+* Google Sites
+* Medium
+* Substack
+* LinkedIn
+
+---
+
+# Forum Participation
+
+**Forum participation** means joining relevant online communities, answering questions, and contributing useful information without spamming links.
+
+### Examples
+
+* Reddit
+* Quora
+
+---
+
+# Guest Posting
+
+**Guest posting** = writing an article for another relevant website and getting it published there as a guest contributor.
+
+---
+
+# Web 2.0 vs Guest Posting vs Article Submission
+
+## Web 2.0
+
+You create your own blog on Blogger → publish your own posts there.
+
+## Guest Posting
+
+Someone else owns the website → you contribute an article to their website → they publish it.
+
+## Article Submission
+
+You write an article → submit it to another website/publication → they review and publish it if accepted.
+
+---
+
+# Summary
+
+| Topic                    | Simple Meaning                                                                                           |
+| ------------------------ | -------------------------------------------------------------------------------------------------------- |
+| **Off-Page SEO**         | Activities done outside your website to improve its online presence and authority                        |
+| **Backlinks**            | Links from another website to your website                                                               |
+| **DoFollow**             | A normal link that can pass link-related SEO signals                                                     |
+| **NoFollow**             | A link that tells search engines not to treat it as a normal endorsement/link signal                     |
+| **Link Quality**         | How useful, trustworthy, and relevant a backlink is                                                      |
+| **DA**                   | Moz's score estimating the strength of an entire domain                                                  |
+| **PA**                   | Moz's score estimating the strength of a specific webpage                                                |
+| **Moz Tools**            | Tools for checking keywords, backlinks, rankings, DA/PA, and website issues                              |
+| **Social Bookmarking**   | Sharing/saving webpage links on bookmarking platforms for discovery and traffic                          |
+| **Directory Submission** | Listing a website/business in a relevant online directory                                                |
+| **Local Citation**       | Online mention of a local business's Name, Address, and Phone (NAP)                                      |
+| **Anchor Text**          | The clickable words used in a hyperlink                                                                  |
+| **Referral Traffic**     | Visitors who reach your website by clicking a link from another website                                  |
+| **Article Submission**   | You write an article → submit it to another website/publication → they review and publish it if accepted |
+| **Web 2.0**              | You create your own blog/content space → publish your own posts there                                    |
+| **Forum Participation**  | Contributing useful answers/discussions in relevant online communities                                   |
+| **Guest Posting**        | Someone else owns the website → you contribute an article → they publish it                              |
+
+```
+```
